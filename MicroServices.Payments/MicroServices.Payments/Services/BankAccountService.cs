@@ -20,7 +20,7 @@ namespace MicroServices.Payments.Services
             {
                 new BankAccount()
                 {
-                    AccountNumber = "This is not really an account number",
+                    AccountNumber = "12345678",
                     Id = 1,
                     RoutingNumber = "123"
                 }
